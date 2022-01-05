@@ -23,7 +23,7 @@ function findLongestWord(words) {
       index = i;
     }
   }
-console.log('test');
+
   if(index > -1){
     returnValue = words[index];
   }
